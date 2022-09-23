@@ -1,0 +1,8 @@
+  .card {
+      background-color: gray;
+  }
+  
+  .checked {
+      background-color: gray;
+      text-decoration: line-through;
+  }
